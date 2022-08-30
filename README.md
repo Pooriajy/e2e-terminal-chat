@@ -1,7 +1,7 @@
 # e2e-terminal-chat
 encrypted terminal interface chat service
 
-#WIP
+# WIP
 TODO:
 -add encryption layer
 -improve curses for the screen
